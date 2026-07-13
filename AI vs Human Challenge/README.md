@@ -5,6 +5,12 @@ The internet is flooded with "How to get rich using AI" videos. However, almost 
 
 The creator then takes that money, goes out into the real world, and attempts to execute the AI's exact roadmap step-by-step to see if it actually works or if it's just pure hallucination.
 
+<!-- Concept Illustration -->
+<p align="center">
+  <img src="./Idea_01.png" alt="AI vs Human Challenge Concept" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
+</p>
+
+
 ## 🎬 Why This Will Go Viral
 *   **Authentic Hustle:** Audiences love real-world social experiments, struggles, and raw execution over scripted content.
 *   **The Reality Check:** It provides an honest, unbiased review of AI capabilities, building massive trust with your viewers.
