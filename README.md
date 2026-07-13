@@ -4,6 +4,11 @@ Hey there! Welcome to this global, open-source repository of unique, high-value,
 
 Tired of seeing the same repetitive, low-effort, or cringe trends on your feed? This repo is a cure for that. 
 
+<!-- Main Project Banner -->
+<p align="center">
+  <img src="./Banner.png" alt="Creator Blueprints Cover" width="100%" style="max-width: 850px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
+</p>
+
 ### 🧠 The Organic Guarantee
 Every single idea in this repository was brainstormed from scratch using **100% human brainpower**. No ChatGPT, no Claude, zero percent (0%) AI-generated fluff. These are real, creative blueprints designed to make content that actually matters, stands out, and brings genuine value to audiences across the globe.
 
